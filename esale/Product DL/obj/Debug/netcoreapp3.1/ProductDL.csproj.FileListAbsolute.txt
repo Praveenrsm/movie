@@ -1,0 +1,16 @@
+C:\mvcasp\esale\Product DL\bin\Debug\netcoreapp3.1\ProductDL.deps.json
+C:\mvcasp\esale\Product DL\bin\Debug\netcoreapp3.1\ProductDL.runtimeconfig.json
+C:\mvcasp\esale\Product DL\bin\Debug\netcoreapp3.1\ProductDL.runtimeconfig.dev.json
+C:\mvcasp\esale\Product DL\bin\Debug\netcoreapp3.1\ProductDL.dll
+C:\mvcasp\esale\Product DL\bin\Debug\netcoreapp3.1\ProductDL.pdb
+C:\mvcasp\esale\Product DL\bin\Debug\netcoreapp3.1\ProductEntity.dll
+C:\mvcasp\esale\Product DL\bin\Debug\netcoreapp3.1\ProductEntity.pdb
+C:\mvcasp\esale\Product DL\obj\Debug\netcoreapp3.1\ProductDL.csproj.AssemblyReference.cache
+C:\mvcasp\esale\Product DL\obj\Debug\netcoreapp3.1\ProductDL.GeneratedMSBuildEditorConfig.editorconfig
+C:\mvcasp\esale\Product DL\obj\Debug\netcoreapp3.1\ProductDL.AssemblyInfoInputs.cache
+C:\mvcasp\esale\Product DL\obj\Debug\netcoreapp3.1\ProductDL.AssemblyInfo.cs
+C:\mvcasp\esale\Product DL\obj\Debug\netcoreapp3.1\ProductDL.csproj.CoreCompileInputs.cache
+C:\mvcasp\esale\Product DL\obj\Debug\netcoreapp3.1\ProductDL.csproj.CopyComplete
+C:\mvcasp\esale\Product DL\obj\Debug\netcoreapp3.1\ProductDL.dll
+C:\mvcasp\esale\Product DL\obj\Debug\netcoreapp3.1\ProductDL.pdb
+C:\mvcasp\esale\Product DL\obj\Debug\netcoreapp3.1\ProductDL.genruntimeconfig.cache

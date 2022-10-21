@@ -1,0 +1,15 @@
+C:\mvcasp\esale\ProductBL\bin\Debug\netcoreapp3.1\ProductBL.deps.json
+C:\mvcasp\esale\ProductBL\bin\Debug\netcoreapp3.1\ProductBL.dll
+C:\mvcasp\esale\ProductBL\bin\Debug\netcoreapp3.1\ProductBL.pdb
+C:\mvcasp\esale\ProductBL\bin\Debug\netcoreapp3.1\ProductDL.dll
+C:\mvcasp\esale\ProductBL\bin\Debug\netcoreapp3.1\ProductEntity.dll
+C:\mvcasp\esale\ProductBL\bin\Debug\netcoreapp3.1\ProductDL.pdb
+C:\mvcasp\esale\ProductBL\bin\Debug\netcoreapp3.1\ProductEntity.pdb
+C:\mvcasp\esale\ProductBL\obj\Debug\netcoreapp3.1\ProductBL.csproj.AssemblyReference.cache
+C:\mvcasp\esale\ProductBL\obj\Debug\netcoreapp3.1\ProductBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\mvcasp\esale\ProductBL\obj\Debug\netcoreapp3.1\ProductBL.AssemblyInfoInputs.cache
+C:\mvcasp\esale\ProductBL\obj\Debug\netcoreapp3.1\ProductBL.AssemblyInfo.cs
+C:\mvcasp\esale\ProductBL\obj\Debug\netcoreapp3.1\ProductBL.csproj.CoreCompileInputs.cache
+C:\mvcasp\esale\ProductBL\obj\Debug\netcoreapp3.1\ProductBL.csproj.CopyComplete
+C:\mvcasp\esale\ProductBL\obj\Debug\netcoreapp3.1\ProductBL.dll
+C:\mvcasp\esale\ProductBL\obj\Debug\netcoreapp3.1\ProductBL.pdb

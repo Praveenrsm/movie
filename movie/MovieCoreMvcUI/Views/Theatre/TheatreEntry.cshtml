@@ -1,0 +1,44 @@
+﻿
+@{
+    ViewData["Title"] = "TheatreEntry";
+}
+@model movieentity1.Theatre;
+<div>
+    <hr />
+    <a asp-controller="Movie" asp-action="Index">
+        Index
+    </a><hr />
+
+</div>
+<form method="post" enctype="multipart/form-data">
+    <h2>Theatre Entry</h2><hr />
+    <div class=" =form-group">
+        <label>Theatre Name</label>
+        <input type="text" asp-for="Name" class="form-control" placeholder="enter theatre name" required />
+    </div>
+    <div class=" =form-group">
+        <label>reviews </label>
+        <input type="text" asp-for="Comments" class="form-control" placeholder="enter theatre Comments" required />
+    </div>
+    <div class=" =form-group">
+        <label>Theatre address</label>
+        <input type="text" asp-for="Address" class="form-control" placeholder="enter theatre address" required />
+    </div>
+
+    <input type="submit" value="Save" class="btn btn-outline-success" />
+    <input type="button" value="Reset" class="btn btn-outline-secondary" />
+    <hr />
+</form>
+@if (ViewBag.status == "Ok")
+{
+    <div class="alert alert-success">
+        @ViewBag.message
+    </div>
+
+}
+else if (ViewBag.status == "Error")
+{
+    <div class="alert alert-danger">
+        @ViewBag.message
+    </div>
+}

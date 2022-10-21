@@ -1,0 +1,58 @@
+﻿
+@model IEnumerable<movieentity1.MovieEL>
+
+@*
+<div class="container-fluid" style="height:100px;background-color:aqua">
+    my movie list
+</div>
+<div class="row">
+    <div class="col-md-4" style="height:100px">
+    <div class="alert alert-success">movie 1</div></div>
+     <div class="col-md-4" style="height:100px">
+         <div class="card">
+             <div class="card-header">movie title</div>
+              <div class="card-body">movie body</div>
+               <div class="card-footer"><button class="btn-primary">more...</button></div>
+         </div></div>
+      <div class="col-md-4" style="height:100px;background-color:gray">movie3</div>
+</div>*@
+<div>
+    <hr />
+    <a asp-controller="Movie" asp-action="MovieEntry">
+        Movie entry
+    </a><hr />
+</div>
+<div class=" row">
+    <div class="col-12">
+        <h3>Movies</h3>
+        <hr/>
+        <table class="table table-light table-bordered table-hover">
+            <thead>
+                <tr>
+                    <th>Movie id</th>
+                    <th>Name</th>
+                    <th>Movie Desc</th>
+                    <th>Movie Type</th>
+                    <th>Edit</th>
+                    <th>Delete</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach(var movie in Model){
+                    <tr>
+                    <td>@movie.Id</td>
+                    <td>@movie.Name</td>
+                    <td>@movie.MovieDesc</td>
+                    <td>@movie.MovieType</td>
+                    <td><a asp-controller="Movie" asp-action="EditMovie"
+                            asp-route-Id="@movie.Id">Edit</a></td>
+                     <td><a asp-controller="Movie" asp-action="DeleteMovie"
+                           asp-route-Id="@movie.Id">Delete</a>
+                    </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+
