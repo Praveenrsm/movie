@@ -1,0 +1,33 @@
+﻿@model movieentity1.Booking
+@{
+    ViewData["Title"] = "DeleteBooking";
+}
+<div>
+    <hr />
+    <a asp-controller="Booking" asp-action="Index">
+        Booking entry
+    </a><hr />
+</div>
+<h1>Delete Booking</h1>
+<hr />
+<form method="post" enctype="multipart/form-data">
+    <div class=" =form-group">
+        <label>Id</label>
+        <input type="text" asp-for="Id" class="form-control" placeholder="enter booking id" required />
+    </div>
+    <input type="submit" value="Save" class="btn btn-outline-success" />
+    <input type="button" value="Reset" class="btn btn-outline-secondary" />
+    <hr />
+</form>
+@if (ViewBag.status == "Ok")
+{
+    <div class="alert alert-success">
+        @ViewBag.message
+    </div>
+}
+else if (ViewBag.status == "Error")
+{
+    <div class="alert alert-danger">
+        @ViewBag.message
+    </div>
+}

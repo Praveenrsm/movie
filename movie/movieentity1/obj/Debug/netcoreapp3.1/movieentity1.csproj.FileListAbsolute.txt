@@ -1,0 +1,10 @@
+C:\movie\movie\movieentity1\bin\Debug\netcoreapp3.1\movieentity1.deps.json
+C:\movie\movie\movieentity1\bin\Debug\netcoreapp3.1\movieentity1.dll
+C:\movie\movie\movieentity1\bin\Debug\netcoreapp3.1\movieentity1.pdb
+C:\movie\movie\movieentity1\obj\Debug\netcoreapp3.1\movieentity1.csproj.AssemblyReference.cache
+C:\movie\movie\movieentity1\obj\Debug\netcoreapp3.1\movieentity1.GeneratedMSBuildEditorConfig.editorconfig
+C:\movie\movie\movieentity1\obj\Debug\netcoreapp3.1\movieentity1.AssemblyInfoInputs.cache
+C:\movie\movie\movieentity1\obj\Debug\netcoreapp3.1\movieentity1.AssemblyInfo.cs
+C:\movie\movie\movieentity1\obj\Debug\netcoreapp3.1\movieentity1.csproj.CoreCompileInputs.cache
+C:\movie\movie\movieentity1\obj\Debug\netcoreapp3.1\movieentity1.dll
+C:\movie\movie\movieentity1\obj\Debug\netcoreapp3.1\movieentity1.pdb

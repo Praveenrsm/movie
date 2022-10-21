@@ -1,0 +1,16 @@
+C:\movie\movie\movieDataLayer\bin\Debug\netcoreapp3.1\movieDataLayer.deps.json
+C:\movie\movie\movieDataLayer\bin\Debug\netcoreapp3.1\movieDataLayer.runtimeconfig.json
+C:\movie\movie\movieDataLayer\bin\Debug\netcoreapp3.1\movieDataLayer.runtimeconfig.dev.json
+C:\movie\movie\movieDataLayer\bin\Debug\netcoreapp3.1\movieDataLayer.dll
+C:\movie\movie\movieDataLayer\bin\Debug\netcoreapp3.1\movieDataLayer.pdb
+C:\movie\movie\movieDataLayer\bin\Debug\netcoreapp3.1\movieentity1.dll
+C:\movie\movie\movieDataLayer\bin\Debug\netcoreapp3.1\movieentity1.pdb
+C:\movie\movie\movieDataLayer\obj\Debug\netcoreapp3.1\movieDataLayer.csproj.AssemblyReference.cache
+C:\movie\movie\movieDataLayer\obj\Debug\netcoreapp3.1\movieDataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\movie\movie\movieDataLayer\obj\Debug\netcoreapp3.1\movieDataLayer.AssemblyInfoInputs.cache
+C:\movie\movie\movieDataLayer\obj\Debug\netcoreapp3.1\movieDataLayer.AssemblyInfo.cs
+C:\movie\movie\movieDataLayer\obj\Debug\netcoreapp3.1\movieDataLayer.csproj.CoreCompileInputs.cache
+C:\movie\movie\movieDataLayer\obj\Debug\netcoreapp3.1\movieDataLayer.csproj.CopyComplete
+C:\movie\movie\movieDataLayer\obj\Debug\netcoreapp3.1\movieDataLayer.dll
+C:\movie\movie\movieDataLayer\obj\Debug\netcoreapp3.1\movieDataLayer.pdb
+C:\movie\movie\movieDataLayer\obj\Debug\netcoreapp3.1\movieDataLayer.genruntimeconfig.cache

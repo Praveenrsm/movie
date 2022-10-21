@@ -1,0 +1,66 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "movie", "movie\movie.csproj", "{5141ED39-8592-43F9-9847-9EF820E39B2E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "movieBL", "movieBL\movieBL.csproj", "{9DF83B37-BFB9-4377-98C5-171F60C92DD0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "movieDataLayer", "movieDataLayer\movieDataLayer.csproj", "{44F53FF4-8EE7-4E12-B76E-1039656C3AAF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MovieAppCoreApi", "MovieAppCoreApi\MovieAppCoreApi.csproj", "{F3A38B69-A51D-44F8-ABE0-82C428582A57}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "movieentity1", "movieentity1\movieentity1.csproj", "{5C670E23-7882-4936-B50F-D4E743E9E9CA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MovieCoreMvcUI", "..\..\mvcui\MovieCoreMvcUI\MovieCoreMvcUI.csproj", "{1787C2B7-7526-4F69-BBB5-DE5636CF0C5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookingCoreMvcUI", "BookingCoreMvcUI\BookingCoreMvcUI.csproj", "{77D3A2CD-6DE6-4273-A383-D28C4B5FF928}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{47DE1559-F494-4941-A2FA-DDF718CD3B6C}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5141ED39-8592-43F9-9847-9EF820E39B2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5141ED39-8592-43F9-9847-9EF820E39B2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5141ED39-8592-43F9-9847-9EF820E39B2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5141ED39-8592-43F9-9847-9EF820E39B2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DF83B37-BFB9-4377-98C5-171F60C92DD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DF83B37-BFB9-4377-98C5-171F60C92DD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DF83B37-BFB9-4377-98C5-171F60C92DD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DF83B37-BFB9-4377-98C5-171F60C92DD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44F53FF4-8EE7-4E12-B76E-1039656C3AAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44F53FF4-8EE7-4E12-B76E-1039656C3AAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44F53FF4-8EE7-4E12-B76E-1039656C3AAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44F53FF4-8EE7-4E12-B76E-1039656C3AAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3A38B69-A51D-44F8-ABE0-82C428582A57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3A38B69-A51D-44F8-ABE0-82C428582A57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3A38B69-A51D-44F8-ABE0-82C428582A57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3A38B69-A51D-44F8-ABE0-82C428582A57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C670E23-7882-4936-B50F-D4E743E9E9CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C670E23-7882-4936-B50F-D4E743E9E9CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C670E23-7882-4936-B50F-D4E743E9E9CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C670E23-7882-4936-B50F-D4E743E9E9CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1787C2B7-7526-4F69-BBB5-DE5636CF0C5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1787C2B7-7526-4F69-BBB5-DE5636CF0C5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1787C2B7-7526-4F69-BBB5-DE5636CF0C5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1787C2B7-7526-4F69-BBB5-DE5636CF0C5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77D3A2CD-6DE6-4273-A383-D28C4B5FF928}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77D3A2CD-6DE6-4273-A383-D28C4B5FF928}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77D3A2CD-6DE6-4273-A383-D28C4B5FF928}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77D3A2CD-6DE6-4273-A383-D28C4B5FF928}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2427E0E4-9AFD-44DB-86FE-C5FC12B0FCC0}
+	EndGlobalSection
+EndGlobal

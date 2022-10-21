@@ -1,0 +1,16 @@
+C:\movie\movie\BookingDb\obj\Debug\netcoreapp3.1\BookingDataLayer.csproj.AssemblyReference.cache
+C:\movie\movie\BookingDb\obj\Debug\netcoreapp3.1\BookingDataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\movie\movie\BookingDb\obj\Debug\netcoreapp3.1\BookingDataLayer.AssemblyInfoInputs.cache
+C:\movie\movie\BookingDb\obj\Debug\netcoreapp3.1\BookingDataLayer.AssemblyInfo.cs
+C:\movie\movie\BookingDb\obj\Debug\netcoreapp3.1\BookingDataLayer.csproj.CoreCompileInputs.cache
+C:\movie\movie\BookingDb\bin\Debug\netcoreapp3.1\BookingDataLayer.deps.json
+C:\movie\movie\BookingDb\bin\Debug\netcoreapp3.1\BookingDataLayer.runtimeconfig.json
+C:\movie\movie\BookingDb\bin\Debug\netcoreapp3.1\BookingDataLayer.runtimeconfig.dev.json
+C:\movie\movie\BookingDb\bin\Debug\netcoreapp3.1\BookingDataLayer.dll
+C:\movie\movie\BookingDb\bin\Debug\netcoreapp3.1\BookingDataLayer.pdb
+C:\movie\movie\BookingDb\bin\Debug\netcoreapp3.1\movieentity1.dll
+C:\movie\movie\BookingDb\bin\Debug\netcoreapp3.1\movieentity1.pdb
+C:\movie\movie\BookingDb\obj\Debug\netcoreapp3.1\BookingDataLayer.csproj.CopyComplete
+C:\movie\movie\BookingDb\obj\Debug\netcoreapp3.1\BookingDataLayer.dll
+C:\movie\movie\BookingDb\obj\Debug\netcoreapp3.1\BookingDataLayer.pdb
+C:\movie\movie\BookingDb\obj\Debug\netcoreapp3.1\BookingDataLayer.genruntimeconfig.cache

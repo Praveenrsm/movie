@@ -1,0 +1,17 @@
+C:\movie\movie\movieBL\bin\Debug\netcoreapp3.1\movieBL.deps.json
+C:\movie\movie\movieBL\bin\Debug\netcoreapp3.1\movieBL.dll
+C:\movie\movie\movieBL\bin\Debug\netcoreapp3.1\movieBL.pdb
+C:\movie\movie\movieBL\bin\Debug\netcoreapp3.1\BookingDataLayer.dll
+C:\movie\movie\movieBL\bin\Debug\netcoreapp3.1\movieDataLayer.dll
+C:\movie\movie\movieBL\bin\Debug\netcoreapp3.1\movieentity1.dll
+C:\movie\movie\movieBL\bin\Debug\netcoreapp3.1\movieDataLayer.pdb
+C:\movie\movie\movieBL\bin\Debug\netcoreapp3.1\movieentity1.pdb
+C:\movie\movie\movieBL\bin\Debug\netcoreapp3.1\BookingDataLayer.pdb
+C:\movie\movie\movieBL\obj\Debug\netcoreapp3.1\movieBL.csproj.AssemblyReference.cache
+C:\movie\movie\movieBL\obj\Debug\netcoreapp3.1\movieBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\movie\movie\movieBL\obj\Debug\netcoreapp3.1\movieBL.AssemblyInfoInputs.cache
+C:\movie\movie\movieBL\obj\Debug\netcoreapp3.1\movieBL.AssemblyInfo.cs
+C:\movie\movie\movieBL\obj\Debug\netcoreapp3.1\movieBL.csproj.CoreCompileInputs.cache
+C:\movie\movie\movieBL\obj\Debug\netcoreapp3.1\movieBL.csproj.CopyComplete
+C:\movie\movie\movieBL\obj\Debug\netcoreapp3.1\movieBL.dll
+C:\movie\movie\movieBL\obj\Debug\netcoreapp3.1\movieBL.pdb
