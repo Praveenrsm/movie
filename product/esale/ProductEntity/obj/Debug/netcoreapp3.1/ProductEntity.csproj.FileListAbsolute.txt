@@ -1,0 +1,10 @@
+C:\mvcasp\esale\ProductEntity\bin\Debug\netcoreapp3.1\ProductEntity.deps.json
+C:\mvcasp\esale\ProductEntity\bin\Debug\netcoreapp3.1\ProductEntity.dll
+C:\mvcasp\esale\ProductEntity\bin\Debug\netcoreapp3.1\ProductEntity.pdb
+C:\mvcasp\esale\ProductEntity\obj\Debug\netcoreapp3.1\ProductEntity.csproj.AssemblyReference.cache
+C:\mvcasp\esale\ProductEntity\obj\Debug\netcoreapp3.1\ProductEntity.GeneratedMSBuildEditorConfig.editorconfig
+C:\mvcasp\esale\ProductEntity\obj\Debug\netcoreapp3.1\ProductEntity.AssemblyInfoInputs.cache
+C:\mvcasp\esale\ProductEntity\obj\Debug\netcoreapp3.1\ProductEntity.AssemblyInfo.cs
+C:\mvcasp\esale\ProductEntity\obj\Debug\netcoreapp3.1\ProductEntity.csproj.CoreCompileInputs.cache
+C:\mvcasp\esale\ProductEntity\obj\Debug\netcoreapp3.1\ProductEntity.dll
+C:\mvcasp\esale\ProductEntity\obj\Debug\netcoreapp3.1\ProductEntity.pdb

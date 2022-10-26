@@ -1,0 +1,16 @@
+C:\mvcasp\esale\Product DL\obj\Debug\netcoreapp3.1\Product DL.csproj.AssemblyReference.cache
+C:\mvcasp\esale\Product DL\obj\Debug\netcoreapp3.1\Product DL.GeneratedMSBuildEditorConfig.editorconfig
+C:\mvcasp\esale\Product DL\obj\Debug\netcoreapp3.1\Product DL.AssemblyInfoInputs.cache
+C:\mvcasp\esale\Product DL\obj\Debug\netcoreapp3.1\Product DL.AssemblyInfo.cs
+C:\mvcasp\esale\Product DL\obj\Debug\netcoreapp3.1\Product DL.csproj.CoreCompileInputs.cache
+C:\mvcasp\esale\Product DL\bin\Debug\netcoreapp3.1\Product DL.deps.json
+C:\mvcasp\esale\Product DL\bin\Debug\netcoreapp3.1\Product DL.runtimeconfig.json
+C:\mvcasp\esale\Product DL\bin\Debug\netcoreapp3.1\Product DL.runtimeconfig.dev.json
+C:\mvcasp\esale\Product DL\bin\Debug\netcoreapp3.1\Product DL.dll
+C:\mvcasp\esale\Product DL\bin\Debug\netcoreapp3.1\Product DL.pdb
+C:\mvcasp\esale\Product DL\bin\Debug\netcoreapp3.1\ProductEntity.dll
+C:\mvcasp\esale\Product DL\bin\Debug\netcoreapp3.1\ProductEntity.pdb
+C:\mvcasp\esale\Product DL\obj\Debug\netcoreapp3.1\Product DL.csproj.CopyComplete
+C:\mvcasp\esale\Product DL\obj\Debug\netcoreapp3.1\Product DL.dll
+C:\mvcasp\esale\Product DL\obj\Debug\netcoreapp3.1\Product DL.pdb
+C:\mvcasp\esale\Product DL\obj\Debug\netcoreapp3.1\Product DL.genruntimeconfig.cache
