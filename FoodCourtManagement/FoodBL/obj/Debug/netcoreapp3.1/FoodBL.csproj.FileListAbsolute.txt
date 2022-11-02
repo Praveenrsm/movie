@@ -1,0 +1,15 @@
+C:\movie\FoodCourtManagement\FoodBL\bin\Debug\netcoreapp3.1\FoodBL.deps.json
+C:\movie\FoodCourtManagement\FoodBL\bin\Debug\netcoreapp3.1\FoodBL.dll
+C:\movie\FoodCourtManagement\FoodBL\bin\Debug\netcoreapp3.1\FoodBL.pdb
+C:\movie\FoodCourtManagement\FoodBL\bin\Debug\netcoreapp3.1\FoodCourtEntity.dll
+C:\movie\FoodCourtManagement\FoodBL\bin\Debug\netcoreapp3.1\FoodDL.dll
+C:\movie\FoodCourtManagement\FoodBL\bin\Debug\netcoreapp3.1\FoodCourtEntity.pdb
+C:\movie\FoodCourtManagement\FoodBL\bin\Debug\netcoreapp3.1\FoodDL.pdb
+C:\movie\FoodCourtManagement\FoodBL\obj\Debug\netcoreapp3.1\FoodBL.csproj.AssemblyReference.cache
+C:\movie\FoodCourtManagement\FoodBL\obj\Debug\netcoreapp3.1\FoodBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\movie\FoodCourtManagement\FoodBL\obj\Debug\netcoreapp3.1\FoodBL.AssemblyInfoInputs.cache
+C:\movie\FoodCourtManagement\FoodBL\obj\Debug\netcoreapp3.1\FoodBL.AssemblyInfo.cs
+C:\movie\FoodCourtManagement\FoodBL\obj\Debug\netcoreapp3.1\FoodBL.csproj.CoreCompileInputs.cache
+C:\movie\FoodCourtManagement\FoodBL\obj\Debug\netcoreapp3.1\FoodBL.csproj.CopyComplete
+C:\movie\FoodCourtManagement\FoodBL\obj\Debug\netcoreapp3.1\FoodBL.dll
+C:\movie\FoodCourtManagement\FoodBL\obj\Debug\netcoreapp3.1\FoodBL.pdb

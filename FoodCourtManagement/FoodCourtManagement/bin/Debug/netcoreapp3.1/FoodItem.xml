@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<ArrayOfFoodEntityEL xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FoodEntityEL>
+    <FoodId>1</FoodId>
+    <price>50</price>
+    <FoodName>raggi</FoodName>
+  </FoodEntityEL>
+  <FoodEntityEL>
+    <FoodId>2</FoodId>
+    <price>1222</price>
+    <FoodName>rice</FoodName>
+  </FoodEntityEL>
+  <FoodEntityEL>
+    <FoodId>3</FoodId>
+    <price>20</price>
+    <FoodName>wheat</FoodName>
+  </FoodEntityEL>
+</ArrayOfFoodEntityEL>

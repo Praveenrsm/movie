@@ -1,0 +1,10 @@
+C:\movie\FoodCourtManagement\FoodCourtEntity\bin\Debug\netcoreapp3.1\FoodCourtEntity.deps.json
+C:\movie\FoodCourtManagement\FoodCourtEntity\bin\Debug\netcoreapp3.1\FoodCourtEntity.dll
+C:\movie\FoodCourtManagement\FoodCourtEntity\bin\Debug\netcoreapp3.1\FoodCourtEntity.pdb
+C:\movie\FoodCourtManagement\FoodCourtEntity\obj\Debug\netcoreapp3.1\FoodCourtEntity.csproj.AssemblyReference.cache
+C:\movie\FoodCourtManagement\FoodCourtEntity\obj\Debug\netcoreapp3.1\FoodCourtEntity.GeneratedMSBuildEditorConfig.editorconfig
+C:\movie\FoodCourtManagement\FoodCourtEntity\obj\Debug\netcoreapp3.1\FoodCourtEntity.AssemblyInfoInputs.cache
+C:\movie\FoodCourtManagement\FoodCourtEntity\obj\Debug\netcoreapp3.1\FoodCourtEntity.AssemblyInfo.cs
+C:\movie\FoodCourtManagement\FoodCourtEntity\obj\Debug\netcoreapp3.1\FoodCourtEntity.csproj.CoreCompileInputs.cache
+C:\movie\FoodCourtManagement\FoodCourtEntity\obj\Debug\netcoreapp3.1\FoodCourtEntity.dll
+C:\movie\FoodCourtManagement\FoodCourtEntity\obj\Debug\netcoreapp3.1\FoodCourtEntity.pdb
