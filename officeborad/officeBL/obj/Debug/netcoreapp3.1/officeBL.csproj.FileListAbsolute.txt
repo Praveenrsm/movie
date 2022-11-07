@@ -1,0 +1,15 @@
+C:\mvcasp\officeborad\officeBL\obj\Debug\netcoreapp3.1\officeBL.csproj.AssemblyReference.cache
+C:\mvcasp\officeborad\officeBL\obj\Debug\netcoreapp3.1\officeBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\mvcasp\officeborad\officeBL\obj\Debug\netcoreapp3.1\officeBL.AssemblyInfoInputs.cache
+C:\mvcasp\officeborad\officeBL\obj\Debug\netcoreapp3.1\officeBL.AssemblyInfo.cs
+C:\mvcasp\officeborad\officeBL\obj\Debug\netcoreapp3.1\officeBL.csproj.CoreCompileInputs.cache
+C:\mvcasp\officeborad\officeBL\bin\Debug\netcoreapp3.1\officeBL.deps.json
+C:\mvcasp\officeborad\officeBL\bin\Debug\netcoreapp3.1\officeBL.dll
+C:\mvcasp\officeborad\officeBL\bin\Debug\netcoreapp3.1\officeBL.pdb
+C:\mvcasp\officeborad\officeBL\bin\Debug\netcoreapp3.1\OfficeDataLayer.dll
+C:\mvcasp\officeborad\officeBL\bin\Debug\netcoreapp3.1\OfficeEntity.dll
+C:\mvcasp\officeborad\officeBL\bin\Debug\netcoreapp3.1\OfficeDataLayer.pdb
+C:\mvcasp\officeborad\officeBL\bin\Debug\netcoreapp3.1\OfficeEntity.pdb
+C:\mvcasp\officeborad\officeBL\obj\Debug\netcoreapp3.1\officeBL.csproj.CopyComplete
+C:\mvcasp\officeborad\officeBL\obj\Debug\netcoreapp3.1\officeBL.dll
+C:\mvcasp\officeborad\officeBL\obj\Debug\netcoreapp3.1\officeBL.pdb

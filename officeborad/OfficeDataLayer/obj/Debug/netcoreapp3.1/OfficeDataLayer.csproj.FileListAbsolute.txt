@@ -1,0 +1,16 @@
+C:\mvcasp\officeborad\OfficeDataLayer\bin\Debug\netcoreapp3.1\OfficeDataLayer.deps.json
+C:\mvcasp\officeborad\OfficeDataLayer\bin\Debug\netcoreapp3.1\OfficeDataLayer.runtimeconfig.json
+C:\mvcasp\officeborad\OfficeDataLayer\bin\Debug\netcoreapp3.1\OfficeDataLayer.runtimeconfig.dev.json
+C:\mvcasp\officeborad\OfficeDataLayer\bin\Debug\netcoreapp3.1\OfficeDataLayer.dll
+C:\mvcasp\officeborad\OfficeDataLayer\bin\Debug\netcoreapp3.1\OfficeDataLayer.pdb
+C:\mvcasp\officeborad\OfficeDataLayer\bin\Debug\netcoreapp3.1\OfficeEntity.dll
+C:\mvcasp\officeborad\OfficeDataLayer\bin\Debug\netcoreapp3.1\OfficeEntity.pdb
+C:\mvcasp\officeborad\OfficeDataLayer\obj\Debug\netcoreapp3.1\OfficeDataLayer.csproj.AssemblyReference.cache
+C:\mvcasp\officeborad\OfficeDataLayer\obj\Debug\netcoreapp3.1\OfficeDataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\mvcasp\officeborad\OfficeDataLayer\obj\Debug\netcoreapp3.1\OfficeDataLayer.AssemblyInfoInputs.cache
+C:\mvcasp\officeborad\OfficeDataLayer\obj\Debug\netcoreapp3.1\OfficeDataLayer.AssemblyInfo.cs
+C:\mvcasp\officeborad\OfficeDataLayer\obj\Debug\netcoreapp3.1\OfficeDataLayer.csproj.CoreCompileInputs.cache
+C:\mvcasp\officeborad\OfficeDataLayer\obj\Debug\netcoreapp3.1\OfficeDataLayer.csproj.CopyComplete
+C:\mvcasp\officeborad\OfficeDataLayer\obj\Debug\netcoreapp3.1\OfficeDataLayer.dll
+C:\mvcasp\officeborad\OfficeDataLayer\obj\Debug\netcoreapp3.1\OfficeDataLayer.pdb
+C:\mvcasp\officeborad\OfficeDataLayer\obj\Debug\netcoreapp3.1\OfficeDataLayer.genruntimeconfig.cache

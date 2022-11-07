@@ -1,0 +1,14 @@
+C:\mvcasp\officeborad\officeborad\bin\Debug\netcoreapp3.1\officeborad.exe
+C:\mvcasp\officeborad\officeborad\bin\Debug\netcoreapp3.1\officeborad.deps.json
+C:\mvcasp\officeborad\officeborad\bin\Debug\netcoreapp3.1\officeborad.runtimeconfig.json
+C:\mvcasp\officeborad\officeborad\bin\Debug\netcoreapp3.1\officeborad.runtimeconfig.dev.json
+C:\mvcasp\officeborad\officeborad\bin\Debug\netcoreapp3.1\officeborad.dll
+C:\mvcasp\officeborad\officeborad\bin\Debug\netcoreapp3.1\officeborad.pdb
+C:\mvcasp\officeborad\officeborad\obj\Debug\netcoreapp3.1\officeborad.csproj.AssemblyReference.cache
+C:\mvcasp\officeborad\officeborad\obj\Debug\netcoreapp3.1\officeborad.GeneratedMSBuildEditorConfig.editorconfig
+C:\mvcasp\officeborad\officeborad\obj\Debug\netcoreapp3.1\officeborad.AssemblyInfoInputs.cache
+C:\mvcasp\officeborad\officeborad\obj\Debug\netcoreapp3.1\officeborad.AssemblyInfo.cs
+C:\mvcasp\officeborad\officeborad\obj\Debug\netcoreapp3.1\officeborad.csproj.CoreCompileInputs.cache
+C:\mvcasp\officeborad\officeborad\obj\Debug\netcoreapp3.1\officeborad.dll
+C:\mvcasp\officeborad\officeborad\obj\Debug\netcoreapp3.1\officeborad.pdb
+C:\mvcasp\officeborad\officeborad\obj\Debug\netcoreapp3.1\officeborad.genruntimeconfig.cache

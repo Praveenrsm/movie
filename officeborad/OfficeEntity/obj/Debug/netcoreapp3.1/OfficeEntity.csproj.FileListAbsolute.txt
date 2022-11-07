@@ -1,0 +1,10 @@
+C:\mvcasp\officeborad\OfficeEntity\bin\Debug\netcoreapp3.1\OfficeEntity.deps.json
+C:\mvcasp\officeborad\OfficeEntity\bin\Debug\netcoreapp3.1\OfficeEntity.dll
+C:\mvcasp\officeborad\OfficeEntity\bin\Debug\netcoreapp3.1\OfficeEntity.pdb
+C:\mvcasp\officeborad\OfficeEntity\obj\Debug\netcoreapp3.1\OfficeEntity.csproj.AssemblyReference.cache
+C:\mvcasp\officeborad\OfficeEntity\obj\Debug\netcoreapp3.1\OfficeEntity.GeneratedMSBuildEditorConfig.editorconfig
+C:\mvcasp\officeborad\OfficeEntity\obj\Debug\netcoreapp3.1\OfficeEntity.AssemblyInfoInputs.cache
+C:\mvcasp\officeborad\OfficeEntity\obj\Debug\netcoreapp3.1\OfficeEntity.AssemblyInfo.cs
+C:\mvcasp\officeborad\OfficeEntity\obj\Debug\netcoreapp3.1\OfficeEntity.csproj.CoreCompileInputs.cache
+C:\mvcasp\officeborad\OfficeEntity\obj\Debug\netcoreapp3.1\OfficeEntity.dll
+C:\mvcasp\officeborad\OfficeEntity\obj\Debug\netcoreapp3.1\OfficeEntity.pdb
